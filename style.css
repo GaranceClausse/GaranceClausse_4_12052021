@@ -637,7 +637,10 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+}
+
+a {
+    color: #3B3B3B;;
 }
 
 .container {
@@ -1087,6 +1090,7 @@ label {
     height: 100%;
     max-width: 400px;
     font-size: 30px;
+    z-index: 1;
 }
 
 .center {
@@ -1100,4 +1104,14 @@ label {
 
 .contact__mail {
     word-wrap: break-word;
+}
+
+#bloc-3-what-i-do {
+    align-items: center;
+    justify-content: center;
+}
+
+.i-do-title {
+    color: #fccf6f;
+    z-index: 2;
 }
