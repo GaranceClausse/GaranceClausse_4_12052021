@@ -750,7 +750,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.8);
+    background-color: #3B3B3B;
     padding: 40px 40px 40px 40px;
 }
 
@@ -764,7 +764,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: rgba(165, 147, 99, 0.8);
+    background-color: #3B3B3B;
 }
 
 .bgc-atomic-tangerine {
@@ -1085,7 +1085,7 @@ label {
     position: absolute;
     display: flex;
     flex-direction: column;
-    background-color: rgba(165, 147, 99, 0.8);
+    background-color: #3B3B3B;
     top: 0;
     align-items: center;
     justify-content: center;
