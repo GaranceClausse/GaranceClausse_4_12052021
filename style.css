@@ -697,6 +697,12 @@ p {
     justify-content: space-around;
 }
 
+@media all and (max-width: 425px) {
+    .social {
+        max-width: 100px;
+    }
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
