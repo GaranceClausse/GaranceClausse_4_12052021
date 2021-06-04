@@ -458,7 +458,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 55px!important;
 }
 
 .icon-lg {
@@ -692,11 +692,6 @@ p {
     color:#3b3b3b;
 }
 
-@media all and (max-width: 425px) {
-    .social {
-        max-width: 100px;
-    }
-}
 
 h2 {
     font-size: 22px;
