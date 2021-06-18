@@ -1098,6 +1098,7 @@ label {
 @media all and (max-width: 600px) {
     .presentation_content {
         justify-content: center;
+        height: 90%;
     }
 }
 
@@ -1121,13 +1122,10 @@ label {
 
 .i-do-title {
     color: #3b3b3b;
+    padding: 20px!important;
 }
 
 a.social {
-    width: 75px;
+    width: 125px;
 
-}
-
-.fa {
-    line-height: 1.3!important;
 }
