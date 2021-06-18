@@ -688,8 +688,14 @@ p {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     color:#3b3b3b;
+}
+
+@media all and (max-width: 715px) {
+    .social {
+        flex-wrap: wrap;
+    }
 }
 
 
