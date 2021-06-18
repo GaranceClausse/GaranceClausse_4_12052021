@@ -33,7 +33,7 @@ function setUpSpecialNavs() {
         $(t.target).closest(".dropdown-toggle").length || $(".close-special-menu").mousedown()
     })
 }
-/*
+
 function extraNavFuncs() {
     $(".site-navigation a").click(function(t) {
         $(t.target).closest(".dropdown-toggle").length || $(".navbar-collapse").collapse("hide")
@@ -42,7 +42,7 @@ function extraNavFuncs() {
             $(this).hasClass("target-open-menu") || $(this).removeClass("open")
         }), $(".target-open-menu").removeClass("target-open-menu")
     })
-}*/
+}
 
 function setFillScreenBlocHeight() {
     $(".bloc-fill-screen").each(function(t) {
